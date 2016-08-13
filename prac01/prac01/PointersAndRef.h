@@ -5,6 +5,8 @@
 #include<algorithm>
 #include "resource.h"
 #include "person.h"
+#include<memory>
+
 
 #include "PersonBasic.h"
 
